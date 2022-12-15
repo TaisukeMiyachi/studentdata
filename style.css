@@ -1,0 +1,7 @@
+#grade1,
+#grade2,
+#grade3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: top;
+}
