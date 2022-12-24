@@ -20,8 +20,7 @@ if($file){
             "img_type" => explode(" ",$line)[5],
             "img_content" => explode(" ",$line)[6],
             "img_size" => str_replace("\n", " ", explode(" ",$line)[7]),            
-        ];    
-              
+        ];           
     }
 }
 
@@ -85,37 +84,37 @@ if($class2_1){
 foreach($class2_1 as $key => $value){
     $sort_keys2_1[$key] = $value["student_number"];
 }
-array_multisort($sort_keys2_1, SORT_ASC, $class1_1);
+array_multisort($sort_keys2_1, SORT_ASC, $class2_1);
 }
 if($class2_2){
 foreach($class2_2 as $key => $value){
     $sort_keys2_2[$key] = $value["student_number"];
 }
-array_multisort($sort_keys, SORT_ASC, $class2_2);
+array_multisort($sort_keys2_2, SORT_ASC, $class2_2);
 }
 if($class2_3){
 foreach($class2_3 as $key => $value){
     $sort_keys2_3[$key] = $value["student_number"];
 }
-array_multisort($sort_keys, SORT_ASC, $class2_3);
+array_multisort($sort_keys2_3, SORT_ASC, $class2_3);
 }
 if($class3_1){
     foreach($class3_1 as $key => $value){
     $sort_keys3_1[$key] = $value["student_number"];
 }
-array_multisort($sort_keys, SORT_ASC, $class3_1);
+array_multisort($sort_keys3_1, SORT_ASC, $class3_1);
 }
 if($class3_2){
 foreach($class3_2 as $key => $value){
     $sort_keys3_2[$key] = $value["student_number"];
 }
-array_multisort($sort_keys, SORT_ASC, $class3_2);
+array_multisort($sort_keys3_2, SORT_ASC, $class3_2);
 }
 if($class3_3){
 foreach($class3_3 as $key => $value){
     $sort_keys3_3[$key] = $value["student_number"];
 }
-array_multisort($sort_keys, SORT_ASC, $class3_3);
+array_multisort($sort_keys3_3, SORT_ASC, $class3_3);
 }
 
 //表示用のタグ作成
@@ -169,6 +168,12 @@ if($class3_3){
 }
 
 /////////////////////////////// . 画 . 像 . ////////////////////////////////////////////////////////////
+// require "create.php";
+
+
+
+
+// var_dump($result);
 ?>
 
 <!DOCTYPE html>

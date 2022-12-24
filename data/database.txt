@@ -1,15 +1,29 @@
-1 1 1 宮地泰介 大濠高校.pdf application/pdf /Applications/XAMPP/xamppfiles/temp/php2oLdhl 1610878
-1 1 2 宮地素子 私立入試概況.png image/png /Applications/XAMPP/xamppfiles/temp/phpO5MK7p 9868
-1 1 3 宮地結愛 S進学.png image/png /Applications/XAMPP/xamppfiles/temp/phpS2Oqm3 19536
-1 1 4 宮地陽愛 コメント.png image/png /Applications/XAMPP/xamppfiles/temp/php9bKvm7 27399
-1 1 5 宮地智史 進学.jpg image/jpeg /Applications/XAMPP/xamppfiles/temp/phpBGdEc4 77249
-1 1 14 吉永小百合 S進学.png image/png /Applications/XAMPP/xamppfiles/temp/phpC968zT 19536
-1 1 7 山本佳之 コース紹介.png image/png /Applications/XAMPP/xamppfiles/temp/phpcB5z5K 36209
-1 2 14 山田太郎 円.png image/png /Applications/XAMPP/xamppfiles/temp/phpQxZdR9 9479
-1 2 3 鈴木一郎 OPENCAMPUS.png image/png /Applications/XAMPP/xamppfiles/temp/phpI0sni7 17159
-1 2 3 鈴木一郎 OPENCAMPUS.png image/png /Applications/XAMPP/xamppfiles/temp/phpzsSoxk 17159
-1 2 3 鈴木一郎 OPENCAMPUS.png image/png /Applications/XAMPP/xamppfiles/temp/phpgUZHS2 17159
-1 2 3 鈴木一郎 OPENCAMPUS.png image/png /Applications/XAMPP/xamppfiles/temp/phpCT8NoX 17159
-1 2 3 鈴木一郎 OPENCAMPUS.png image/png /Applications/XAMPP/xamppfiles/temp/phpLCz4mr 17159
-1 2 3 鈴木一郎 OPENCAMPUS.png image/png /Applications/XAMPP/xamppfiles/temp/phpPSlWuX 17159
-1 2 3 鈴木一郎 OPENCAMPUS.png image/png /Applications/XAMPP/xamppfiles/temp/phpuznEs0 17159
+1 1 1 宮地泰介 
+1 1 3 宮地素子 
+1 2 12 鈴木一郎 
+1 2 5 吉永小百合 
+    
+    
+1 2 14 山本佳之 
+    
+    
+2 3 15 山田太郎 
+    
+    
+    
+1 2 1 宮地素子 コース.png image/png 
+2 2 23 マリーアントワネット イン.png image/png 
+3 1 3 サンタさん コース紹介.png image/png 
+1 3 5 児玉源太郎 コース紹介.png image/png 
+2 2 17 乃木希典 Fスコア.png image/png 
+    コース.png image/png 
+    コース.png image/png 
+    コース.png image/png 
+    コース.png image/png 
+    イン.png image/png 
+    コース.png image/png 
+    イン.png image/png 
+    イン.png image/png 
+    イン.png image/png 
+    コース.png image/png 
+    コース.png image/png 
